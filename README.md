@@ -52,9 +52,9 @@ Platform showcasing innovative legal technology solutions.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: sean.email@example.com 
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: Sean.krussana50@gmail.com
+- 🔗 LinkedIn: Sean_krussana(https://linkedin.com/in/yourprofile)  
+- 🌐 Portfolio: Sean>Krussana(https://yourwebsite.com)  
 
 ---
 
