@@ -54,9 +54,9 @@ I create **web apps, software solutions, and AI-powered projects** that solve re
 ---
 
 ## 📫 Contact Me
-- 📧 Email: sean.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: Sean.krussana50@gmail.com
+- 🔗 LinkedIn: Sean_Krussana  
+- 🌐 Portfolio: SeanK.com 
 
 ---
 
