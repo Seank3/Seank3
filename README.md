@@ -1,4 +1,3 @@
-
 # Hi, I'm Sean 👋
 
 ![Banner](https://img.shields.io/badge/Full-Stack-Developer-blue?style=flat-square)
@@ -25,12 +24,11 @@ I create **web apps, software solutions, and AI-powered projects** that solve re
 
 ---
 
-## 🌟 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Legal Tech Geeks | Platform for innovative legal technology solutions | [GitHub](https://github.com/Legal-Tech-Geeks/legal-tech-army) |
-| AI Experiments | Personal AI & ML learning projects | [GitHub](#) |
-| Web Apps | Interactive full-stack web applications | [GitHub](#) |
+## 🌟 Featured Project
+### Legal Tech Geeks
+![Legal Tech Geeks](https://raw.githubusercontent.com/Legal-Tech-Geeks/legal-tech-army/main/assets/preview.png)  
+Platform showcasing innovative legal technology solutions.  
+**[View Project on GitHub](https://github.com/Legal-Tech-Geeks/legal-tech-army)**  
 
 ---
 
@@ -54,10 +52,11 @@ I create **web apps, software solutions, and AI-powered projects** that solve re
 ---
 
 ## 📫 Contact Me
-- 📧 Email: Sean.krussana50@gmail.com
-- 🔗 LinkedIn: Sean_Krussana  
-- 🌐 Portfolio: SeanK.com 
+- 📧 Email: sean.email@example.com 
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
 
 *"Code is not just code, it’s problem-solving made visible."* 💡
+
