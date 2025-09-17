@@ -1,4 +1,6 @@
 # Hi, I'm Sean 👋  
+![Banner](https://img.shields.io/badge/Full-Stack-Developer-blue?style=for-the-badge&logo=github)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=600&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Software+Engineer;Problem+Solver+%7C+Innovator;Lifelong+Learner)](https://git.io/typing-svg)  
 
