@@ -102,7 +102,7 @@ Interactive **data visualization tool** using Django + React + Chart.js for acti
 
 ## 📫 Contact Me  
 - 📧 Email: **[Sean.krussana50@gmail.com](mailto:Sean.krussana50@gmail.com)**  
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔗 LinkedIn: [Sean_krussana](https://linkedin.com/in/yourprofile)  
 - 🌐 Portfolio: [Your Portfolio](https://yourwebsite.com)  
 
 ---
